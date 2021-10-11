@@ -1,0 +1,61 @@
+{
+	"type": "FeatureCollection",
+	"name": "sampleData",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:EPSG::3857"
+		}
+	},
+	"features": [{
+		"type": "Feature",
+		"properties": {
+			"objectid": 3925,
+			"shape_length": 56.703149819378602,
+			"linkid": "{51E76C30-DA77-4BC4-85F9-2A51D852C909}",
+			"linkref": "A666\/\/SL\/\/window.good.obey",
+			"linkcategory": "A",
+			"linkdesc": " ",
+			"linkform": "SL",
+			"directionality": "1",
+			"direction": " ",
+			"numberoflanes": 4,
+			"smartmotorway": " ",
+			"carriageway": " ",
+			"ownership": " ",
+			"startgradeseparation": null,
+			"endgradeseparation": null,
+			"parentlinkref": null,
+			"srn": "N",
+			"mrn": "Y",
+			"diversionroute": "N",
+			"startnode": "{E6ECFB3F-3D3D-4B8A-8412-A2E9498782D8}",
+			"endnode": "{D8FF6430-6FA5-4EE6-8801-7DC146EA1D4D}",
+			"operationalstate": "O",
+			"roadname": "A666",
+			"startdate": "2021-09-20 16:27:31+01",
+			"enddate": null,
+			"toid": "osgb4000000009329276",
+			"globalid": "{1776DCEF-2C98-442B-BE8D-C892E811E63E}",
+			"created_user": "data_migration",
+			"created_date": "2021-09-20 16:27:31+01",
+			"last_edited_user": "data_migration",
+			"last_edited_date": "2021-09-20 16:27:31+01"
+		},
+		"geometry": {
+			"type": "MultiLineString",
+			"coordinates": [
+				[
+					[-270532.934791196195874, 7092503.661291113123298, 102.30000000000291],
+					[-270523.099411050672643, 7092545.862115811556578, 102.399999999994179],
+					[-270523.222342717635911, 7092566.244314241223037, 102.5],
+					[-270523.231573807017412, 7092567.77483537979424, 102.5],
+					[-270523.282100892451126, 7092576.152252528816462, 102.600000000005821],
+					[-270523.323071645456366, 7092582.945214932784438, 102.69999999999709],
+					[-270518.329079894698225, 7092591.403786276467144, 102.69999999999709],
+					[-270513.294420113204978, 7092593.119954628869891, 102.600000000005821]
+				]
+			]
+		}
+	}]
+}
